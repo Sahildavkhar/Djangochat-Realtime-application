@@ -8,6 +8,8 @@ Our project aims to develop a real-time chat application using Django and Django
 
 - [@Jiya Chaudhari](https://github.com/Jiyachaudhari-05)
 
+- [@Sahil Davkhar](https://github.com/Sahildavkhar/)
+
 - [@Mahant Deshmukh](https://github.com/Morningstar2429)
 
 
