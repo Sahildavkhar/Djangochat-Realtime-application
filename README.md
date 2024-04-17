@@ -15,9 +15,10 @@ Our project aims to develop a real-time chat application using Django and Django
 
 ## Screenshots
 
-![Djchat SS1](https://github.com/Sahildavkhar/Djangochat-Realtime-application/assets/141304285/3f140038-4396-4395-84c5-6f9ba52bf7ea)
+![Djchat SS1](https://github.com/Sahildavkhar/Djangochat-Realtime-application/assets/141304285/7e564031-b99d-4aee-ae83-58b743f6449c)
 
-![Djchat SS2](https://github.com/Sahildavkhar/Djangochat-Realtime-application/assets/141304285/6f08abbc-ebfd-45ec-8e32-21934faf951e)
+![Djchat SS2](https://github.com/Sahildavkhar/Djangochat-Realtime-application/assets/141304285/2b071239-fdbe-4464-833d-636634b72a31)
+
 
 
 
